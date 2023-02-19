@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Size -->
+    <dimen name="foodie_size">60sp</dimen>
+    <dimen name="food_delivery_app_size">30sp</dimen>
+    <dimen name="get_started_size">25sp</dimen>
+    <!-- Splash -->
+    <dimen name="get_started_btn_margin">24dp</dimen>
+</resources>
